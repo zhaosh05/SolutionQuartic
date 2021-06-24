@@ -6,7 +6,7 @@ Much faster than Matlab vpasolve, useful to complexity and running time evaluati
 
 Use the following code to call this function 使用以下代码调用该函数:
 
-A1=[a1,b1,c1,d1,e1,f1]; % coefficient of the 1st quadratic equation 第一个二次方程的系数 a1·x^2 + b1·xy + c1·^2 + d1·x + e1·y + f1=0
+A1=[a1,b1,c1,d1,e1,f1]; % coefficient of the 1st quadratic equation 第一个二次方程的系数 a1·x^2 + b1·xy + c1·y^2 + d1·x + e1·y + f1=0
 
 B1=[a2,b2,c2,d2,e2,f2]; % coefficient of the 2nd quadratic equation 第二个二次方程的系数 a2·x^2 + b2·xy + c2·y^2 + d2·x + e2·y + f2=0
 
