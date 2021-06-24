@@ -1,5 +1,6 @@
 # SolutionQuartic
 Matlab code for quadratic equations in two variables. 求解二元二次方程组的Matlab代码
+
 Much faster than Matlab vpasolve, useful to complexity and running time evaluation. 求解速度远快于Matlab vpasolve, 可用于评估计算复杂度和实际运行时间
 
 
@@ -12,8 +13,9 @@ B1=[a2,b2,c2,d2,e2,f2]; % coefficient of the 2nd quadratic equation 第二个二
 [x,y]=solvequartic(A1,B1);
 
 
-**If you use or are inspired by this code, please give credit to the following paper. 如果使用本代码或受到启发，请引用以下论文
-S. Zhao, X.-P. Zhang, X. Cui, and M. Lu, “A closed-form localization method utilizing pseudorange measurements from two non-synchronized positioning systems,” IEEE Internet Things J., vol. 8, no. 2, pp. 1082–1094, Jan. 2021.**
+**If you use or are inspired by this code, please give credit to the following paper. 如果使用本代码或受到启发，请引用以下论文**
+
+**S. Zhao, X.-P. Zhang, X. Cui, and M. Lu, “A closed-form localization method utilizing pseudorange measurements from two non-synchronized positioning systems,” IEEE Internet Things J., vol. 8, no. 2, pp. 1082–1094, Jan. 2021.**
 
 BibTex form:
 
