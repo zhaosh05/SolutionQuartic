@@ -1,5 +1,5 @@
 # SolutionQuartic
-Matlab code for quadratic equations in two variables. 求解二元二次方程组的Matlab代码
+Matlab code for solution to quadratic equations in two variables. 求解二元二次方程组的Matlab代码
 
 Much faster than Matlab vpasolve, useful to complexity and running time evaluation. 求解速度远快于Matlab vpasolve, 可用于评估计算复杂度和实际运行时间
 
